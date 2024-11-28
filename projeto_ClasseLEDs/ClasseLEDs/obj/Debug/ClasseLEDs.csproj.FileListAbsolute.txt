@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\bin\Debug\ClasseLEDs.exe.config
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\bin\Debug\ClasseLEDs.exe
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\bin\Debug\ClasseLEDs.pdb
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.Form1.resources
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.Properties.Resources.resources
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.exe
+C:\Users\User\source\repos\ClasseLEDs\ClasseLEDs\obj\Debug\ClasseLEDs.pdb
