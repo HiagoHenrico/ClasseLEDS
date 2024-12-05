@@ -31,7 +31,7 @@ namespace ClasseLEDs
         }
         public bool getLed(int led)
         {
-            
+            //dado = (byte)((int) dado true - 0);
             return true; 
         }
     }
